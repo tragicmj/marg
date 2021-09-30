@@ -1,0 +1,67 @@
+[
+        {
+            "prefix": "Dr",
+            "fullname": "Anuj More",
+            "mobileNo": "1234567890",
+            "email": "anuj.more@newclinic.com",
+            "specialityIn": "MBBS",
+            "orgName": "New Clinic",
+            "orgAddress": "Pune",
+            "orgCity": "Pune",
+            "orgState": "Maharashtra",
+            "latitude": "",
+            "longtitude": ""
+        },
+        {
+            "prefix": "Dr",
+            "fullname": "Medha Tamghadge",
+            "mobileNo": "1234567890",
+            "email": "medha@demoac.in",
+            "specialityIn": "Dentist",
+            "orgName": "My Demo A\\c",
+            "orgAddress": "Karad",
+            "orgCity": "Karad",
+            "orgState": "Maharashtra",
+            "latitude": "",
+            "longtitude": ""
+        },
+        {
+            "prefix": "Dr",
+            "fullname": "Krishna Kabra",
+            "mobileNo": "1234567890",
+            "email": "kabrak2705@gmail.com",
+            "specialityIn": "GP",
+            "orgName": "Krishna's Clinic",
+            "orgAddress": "Paithan",
+            "orgCity": "Aurangabad",
+            "orgState": "Maharashtra",
+            "latitude": "28.6981224",
+            "longtitude": "77.1600089"
+        },
+        {
+            "prefix": "Dr",
+            "fullname": "Sushil Kumar",
+            "mobileNo": "9898989898",
+            "email": "pratapgavali9325@gmail.com",
+            "specialityIn": "orthodontist",
+            "orgName": "PratapMarghealth",
+            "orgAddress": "Pune",
+            "orgCity": "",
+            "orgState": "Maharashtra",
+            "latitude": "",
+            "longtitude": ""
+        },
+        {
+            "prefix": "Dr",
+            "fullname": "Snehal Kulkarni",
+            "mobileNo": "9096878877",
+            "email": "uattest077@gmail.com",
+            "specialityIn": "GP",
+            "orgName": "TEST CLINIC",
+            "orgAddress": "Baner Pune",
+            "orgCity": "Pune",
+            "orgState": "Maharashtra",
+            "latitude": "",
+            "longtitude": ""
+        }
+    ]
